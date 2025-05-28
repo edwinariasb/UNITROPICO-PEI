@@ -1,5 +1,7 @@
 # Datos de reunión 28.05.2025 componentes PEI
-unitropico, 
+Unitropico, 
+
+link Google Docs (https://docs.google.com/forms/d/e/1FAIpQLSfve6E1xms1OnfgUBR9Io0sBxdE5gB1PtKo8S74OvtUfNn45w/viewform?usp=dialog)
 
 # A. Propuesta de instrumentos de consulta a los actores institucionales de Unitrópico, para recolectar información para la actualización del Proyecto Educativo Institucional (PEI)
 Los instrumentos deben estar diseñados para recolectar opiniones, percepciones y sugerencias de los diferentes estamentos de la Universidad (profesores, estudiantes, administrativos y egresados) y directivos con el propósito de asegurar la construcción colectiva y participativa del PEI, mediante estos instrumentos se busca que se garantice que todas las voces sean escuchadas y sus aportes sean tenidos en cuenta para la actualización del PEI. 
