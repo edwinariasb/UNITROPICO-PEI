@@ -4,8 +4,218 @@
 version en revisión antes de enviar a los estudiantes.
 Formulario para respuesta: (https://docs.google.com/forms/d/e/1FAIpQLSfY3EH1b-1SjoNeExqqzF1yEBNdrNkX3RYsHAJFFA8HTXZe4g/viewform?usp=preview)
 
+### Cuestionario
+El formulario de Unitrópico, diseñado para complementar la reflexión sobre el proceso de **actualización del Proyecto Educativo Institucional (PEI) para el 2025**, busca la participación de los estudiantes para una construcción colectiva de la versión actualizada. A continuación, se detalla el texto y las preguntas del cuestionario con sus opciones de respuesta, tal como aparecen en las fuentes:
 
+---
 
+**Actualización del Proyecto Educativo Institucional de Unitrópico (2025)**
+**Instrumentos a actores de la comunidad académica: Estudiantes**
+
+Este cuestionario busca complementar la reflexión sobre el proceso de actualización del Proyecto Educativo Institucional de Unitrópico, a realizar entre mayo y agosto de 2025. Se invita a los participantes a compartir sus comentarios y opiniones sobre el PEI, en relación con los procesos de investigación y proyección social, y sus efectos sobre las prácticas y dinámicas de aprendizaje.
+
+---
+
+**Autorización para el uso de datos personales**
+
+*   **Declaración:** Declaro de manera voluntaria mi participación en el proceso de actualización del Proyecto Educativo Institucional de Unitrópico. Autorizo el uso de mis datos personales y las respuestas proporcionadas en los instrumentos aplicados, exclusivamente con fines académicos e institucionales. Los resultados del sondeo podrán ser utilizados en documentos o medios de divulgación académica realizados en el marco del proyecto PEI 2025, garantizando la confidencialidad y el adecuado manejo de los datos personales.
+
+*   **Pregunta de autorización (Una sola respuesta posible):**
+    *   Sí, autorizo el uso de mis datos personales y las respuestas de la evaluación para fines académicos y científicos.
+    *   No autorizo el uso de mis datos personales y respuestas.
+
+---
+
+**Datos de contacto**
+
+*   Nombres y apellidos
+*   Correo institucional
+*   Correo electrónico alternativo
+*   Número telefónico de contacto
+*   Vinculación a Unitrópico: Facultad
+*   Vinculación a Unitrópico: Programa
+
+*   **¿Además de estudiante, tiene otra vinculación a Unitrópico? (Una sola respuesta posible):**
+    *   Administrativo
+    *   Egresado
+    *   Contratista
+    *   Ninguna
+
+---
+
+**I. Opinión sobre el Proyecto Educativo Institucional - PEI - vigente**
+
+Por favor, en las siguientes preguntas mencione sus vivencias o ejemplos desde su experiencia educativa en Unitrópico hasta la fecha, considerando el proceso de actualización del Proyecto Educativo Institucional en 2025.
+
+1.  **¿Conoces o has recibido alguna información sobre el Proyecto Educativo Institucional (PEI) de Unitrópico? (Varias respuestas posibles):**
+    *   Sí, lo conozco bien y he participado en actividades relacionadas
+    *   He tenido acceso a información básica y me gustaría profundizar
+    *   Me interesa conocerlo para vincularme más activamente
+    *   Aún no he tenido la oportunidad, pero me gustaría participar en espacios de socialización
+    *   No, hasta este momento
+
+2.  **¿De qué manera diría que el PEI se refleja en su experiencia académica? (Varias respuestas posibles):**
+    *   Está presente en asignaturas, actividades o programas
+    *   Se menciona en algunos espacios, pero no es común
+    *   La articulación es débil o inexistente
+    *   No lo he visto en en mi formación
+    *   Otra forma
+
+3.  **¿De qué manera cree que el PEI puede reflejarse mejor en su experiencia académica? (Varias respuestas posibles):**
+    *   Integrándolo de forma explícita en los contenidos de los cursos
+    *   A través de proyectos interdisciplinares vinculados a la región
+    *   Mediante actividades extracurriculares alineadas con la investigación
+    *   Mediante actividades extracurriculares alineadas con proyectos sociales
+    *   Otra
+
+    *   **3.1 ¿Cuál?** (Pregunta abierta)
+
+4.  **¿Indique el grado de importancia que le asigna a los valores institucionales (siendo 1 Sin importancia a 5 Fundamental)? (Una sola respuesta posible por valor):**
+    *   **Valores:**
+        *   Honestidad
+        *   Responsabilidad
+        *   Solidaridad
+        *   Tolerancia
+        *   Idoneidad
+        *   Lealtad
+    *   **Opciones de grado de importancia (para cada valor):**
+        *   1 Sin importancia
+        *   2 Poco importante
+        *   3 Importante
+        *   4 Muy importante
+        *   5 Fundamental
+
+    *   **4.1 Indique otro valor, que considere relevante:** (Pregunta abierta)
+
+5.  **¿Indique el grado de importancia que le asigna a los principios institucionales (siendo 1 Sin importancia a 5 Fundamental)? (Una sola respuesta posible por principio):**
+    *   **Principios:**
+        *   Accesibilidad
+        *   Autonomía
+        *   Corresponsabilidad
+        *   Debido Proceso
+        *   Economía
+        *   Ética
+        *   Excelencia Académica
+        *   Igualdad
+        *   Integralidad
+        *   Interés de responsabilidad pública
+        *   Libertad de cátedra y enseñanza
+        *   Pertinencia
+        *   Regionalización
+        *   Sostenibilidad
+        *   Trasparencia
+        *   Trascendencia
+        *   Universalidad
+        *   Prevalencia de los Principios
+    *   **Opciones de grado de importancia (para cada principio):**
+        *   1 Sin importancia
+        *   2 Poco importante
+        *   3 Importante
+        *   4 Muy importante
+        *   5 Fundamental
+
+    *   **5.1 Indique otro principio, que considere relevante:** (Pregunta abierta)
+
+6.  **¿Se identifica con los principios propuestos en el PEI? (Varias respuestas posibles):**
+    *   Me identifico totalmente
+    *   Me identifico con algunos de los principios
+    *   Me siento identificado/a parcialmente
+    *   No me siento identificado/a
+    *   No los conozco
+
+---
+
+**II. Tendencias o desafíos actuales de la educación superior**
+
+7.  **¿Qué tan alineado considera que está el PEI con las tendencias o desafíos actuales de la educación superior? A partir de las siguientes opciones, indique en qué grado está de acuerdo o no. (Una sola respuesta posible por línea):**
+    *   **Tendencias/Desafíos:**
+        *   Garantía de calidad e inclusión en la educación superior
+        *   Desajuste entre formación académica y necesidades del mercado laboral
+        *   Desigualdades de género en el medio social y laboral
+        *   Educación para el desarrollo sostenible (EDS)
+        *   Enfocado a los programas académicos
+        *   Integración ética de la inteligencia artificial (IA) en la educación
+        *   Transformación digital con enfoque humanista
+        *   Reconocimiento y liderazgo académico
+        *   Educación a lo largo de la vida y movilidad social
+        *   Gobernanza y evaluación para la mejora educativa
+        *   Recursos y financiamiento sostenible de la educación
+        *   Integración territorial del conocimiento para el desarrollo sostenible de la Orinoquía
+        *   Superación de brechas en el territorio
+        *   Apropiación social del conocimiento con actores locales y diálogo con saberes ancestrales
+    *   **Opciones de grado de alineación (para cada tendencia/desafío):**
+        *   Prioridad estratégica o inmediata
+        *   Prioridad alta
+        *   Prioridad media
+        *   Baja prioridad
+        *   Sin prioridad
+
+8.  **Por favor indique el mayor desafío, con un ejemplo o una opinión:** (Pregunta abierta)
+
+---
+
+**III. Apropiación del PEI**
+
+9.  **¿Cuál es el papel que juega el PEI en tu experiencia como estudiante? (Varias respuestas posibles):**
+    *   Un marco de orientación clara
+    *   Un componente más del proceso de formación
+    *   Lineamientos pocos conocidos
+    *   No lo veo reflejado en mi experiencia de formación
+    *   No tengo información suficiente
+
+    *   **9.1 Por favor explique su respuesta, con un ejemplo o una opinión:** (Pregunta abierta)
+
+10. **¿Cómo se presenta la formación ética y ciudadana dentro del entorno académico? (Varias respuestas posibles):**
+    *   Es un eje claro en muchas actividades
+    *   Está presente, pero no se le da suficiente relevancia
+    *   No se aborda con claridad
+    *   No lo he observado
+
+    *   **10.1 Por favor explique su respuesta, con un ejemplo o una opinión:** (Pregunta abierta)
+
+11. **¿Qué obstáculos ha identificado en la aplicación del PEI en su rol como estudiante? (Varias respuestas posibles):**
+    *   Falta de recursos y/o tiempo
+    *   Desconocimiento del documento
+    *   Incongruencia entre el PEI y la realidad institucional
+    *   Otro obstáculo?
+
+    *   **11.1 Por favor explique su respuesta, con un ejemplo o una opinión:** (Pregunta abierta)
+
+12. **¿Qué estrategias considera pertinentes para vincularse al proceso de actualización del PEI en 2025? (Una sola respuesta posible por línea):**
+    *   **Estrategias:**
+        *   Consultas participativas
+        *   Análisis con grupos de estudiantes
+        *   Análisis con grupos de profesores
+        *   Mesas de trabajo o grupos focales
+        *   Construcción colectiva
+    *   **Opciones de interés (para cada estrategia):**
+        *   Pertinente
+        *   No pertinente
+        *   Me interesa participar
+        *   No me interesa participar
+
+---
+
+**IV. Relación entre el PEI y las funciones misionales**
+
+13.1 **¿Qué dimensión o aspecto debería incluirse o fortalecerse con prioridad en el PEI? en materia de Investigación:** (Pregunta abierta)
+
+13.2 **¿Qué dimensión o aspecto debería incluirse o fortalecerse con prioridad en el PEI? en materia de Proyección social:** (Pregunta abierta)
+
+13.3 **¿Qué dimensión o aspecto debería incluirse o fortalecerse con prioridad en el PEI? en materia de investigación:** (Pregunta abierta)
+
+13.4 **¿Qué dimensión o aspecto debería incluirse o fortalecerse con prioridad en el PEI? en materia de internacionalización:** (Pregunta abierta)
+
+13.5 **¿Qué dimensión o aspecto debería incluirse o fortalecerse con prioridad en el PEI? en materia de bienestar universitario:** (Pregunta abierta)
+
+14. **¿Cómo percibe el papel del PEI en su formación ética y ciudadana como profesional? (Varias respuestas posibles):**
+    *   Es un eje central y bien desarrollado
+    *   Se menciona pero no se concreta en acciones
+    *   No se aborda de forma sistemática
+
+    *   **14.1 Por favor explique su respuesta, con una opinión:** (Pregunta abierta)
+
+14.2 **Hay otra estrategia que favorezca el proceso de actualización del PEI ¿Cuál?** (Pregunta abierta)
 
 # Datos de reunión 28.05.2025 componentes PEI
 Unitropico, 
