@@ -1,3 +1,12 @@
+# Ajuste formulario 
+
+## instrumentos Estudiantes
+version en revisión antes de enviar a los estudiantes.
+Formulario para respuesta: (https://docs.google.com/forms/d/e/1FAIpQLSfY3EH1b-1SjoNeExqqzF1yEBNdrNkX3RYsHAJFFA8HTXZe4g/viewform?usp=preview)
+
+
+
+
 # Datos de reunión 28.05.2025 componentes PEI
 Unitropico, 
 
