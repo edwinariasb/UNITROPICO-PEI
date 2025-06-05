@@ -89,3 +89,49 @@ Explicaciones de algunos valores:
 *   **IDONEIDAD**: La **Universidad Internacional del Trópico Americano Unitrópico** reconoce que su **desarrollo académico** está definido por su **autonomía institucional**, en equilibrio con su **responsabilidad civil y social**. Se origina en la **reflexión permanente** y la **autoevaluación concertada** entre los agentes y estamentos que **promueven la calidad** en los procesos y procedimientos. La institución tiene como marco de acción la **libertad académica, de investigación, de aprendizaje y de cátedra**, lo que se refleja en la **competitividad y competencia** de sus miembros.
 
 Estos principios y valores son fundamentales para el quehacer de Unitrópico y orientan su funcionamiento y desarrollo.
+
+# TENDENCIAS Y DESAFIOS DE LA EDUCACION SUPERIOR
+
+## Tendencias y desafíos globales de la educación superior
+
+1. **Integración ética de la inteligencia artificial (IA) en la educación**  
+   La UNESCO ha destacado la necesidad de formar a docentes y estudiantes en el uso ético y responsable de la IA, asegurando que complemente y no reemplace las dimensiones humanas del aprendizaje.
+
+2. **Garantía de calidad e inclusión en la educación superior**  
+   La UNESCO enfatiza la importancia de asegurar la calidad educativa y promover la inclusión, especialmente en países en desarrollo, mediante el reconocimiento de títulos y diplomas y la movilidad académica.
+
+3. **Desajuste entre formación académica y necesidades del mercado laboral**  
+   Según la OCDE, persiste un desajuste entre las competencias adquiridas en la educación superior y las demandas del mercado laboral, lo que requiere una mejor alineación entre ambos sectores.
+
+4. **Desigualdades de género en el mercado laboral**  
+   A pesar de que las mujeres obtienen mejores resultados académicos, enfrentan desventajas significativas en el mercado laboral, especialmente aquellas sin educación secundaria superior completa.
+
+5. **Educación para el desarrollo sostenible (EDS)**  
+   La UNESCO promueve la EDS para preparar a los individuos en la prosperidad compartida y el cuidado del planeta, integrando aspectos sociales, económicos y culturales del desarrollo sostenible.
+
+6. **Transformación digital con enfoque humanista**  
+   Se destaca la necesidad de una transformación digital en la educación que sea inclusiva y equitativa, cerrando brechas tecnológicas y promoviendo la flexibilidad en el aprendizaje.
+
+7. **Reconocimiento y liderazgo docente**  
+   La UNESCO subraya la importancia de reconocer el saber y liderazgo de los docentes para consolidar la transformación educativa y mejorar la calidad de la enseñanza.
+
+8. **Educación a lo largo de la vida y movilidad social**  
+   Se enfatiza la promoción del aprendizaje continuo y el empleo juvenil decente como medios para mejorar la movilidad social y adaptarse a las cambiantes demandas del mercado laboral.
+
+9. **Gobernanza y evaluación para la mejora educativa**  
+   Es esencial establecer mecanismos de gobernanza y evaluación que permitan la mejora continua del sistema educativo, asegurando su eficacia y adaptabilidad.
+
+10. **Financiamiento sostenible de la educación**  
+    La UNESCO destaca la necesidad de asegurar el financiamiento adecuado de la educación para cumplir con los compromisos y metas establecidos, garantizando recursos suficientes para su desarrollo.
+
+## Desafíos específicos para Unitrópico y la Orinoquía colombiana
+
+11. **Integración territorial del conocimiento para el desarrollo sostenible de la Orinoquía**  
+    Unitrópico enfrenta el reto de consolidarse como un actor estratégico en la transformación territorial de Casanare y la región de la Orinoquía. Esto implica integrar la formación académica, la investigación y la proyección social con los desafíos socioambientales de la región, como la biodiversidad, el cambio climático, la transición energética y la construcción de paz, articulando el saber ancestral con el conocimiento científico.
+
+12. **Superación de brechas digitales con enfoque rural**  
+    La cobertura tecnológica desigual en la región plantea el desafío de garantizar una transformación digital inclusiva. Unitrópico debe fortalecer la conectividad, el acceso a dispositivos y la formación digital de docentes y estudiantes, especialmente en zonas rurales, para asegurar procesos formativos flexibles, pertinentes y equitativos en contextos de baja infraestructura tecnológica.
+
+13. **Apropiación social del conocimiento y diálogo con saberes ancestrales**  
+    Unitrópico debe fortalecer la apropiación social del conocimiento en las comunidades locales, reconociendo, valorando y articulando los saberes ancestrales con el conocimiento académico. Esto implica metodologías participativas, co-creación de conocimiento y respeto intercultural como base de una educación verdaderamente territorializada.
+
