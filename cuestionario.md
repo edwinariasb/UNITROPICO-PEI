@@ -1,6 +1,6 @@
-# Ajuste formulario 
+# Ajuste instrumentos a instancias académicas 
 
-## instrumentos Estudiantes
+# instrumento PEI Estudiantes
 version en revisión antes de enviar a los estudiantes.
 Formulario para respuesta: (https://docs.google.com/forms/d/e/1FAIpQLSfY3EH1b-1SjoNeExqqzF1yEBNdrNkX3RYsHAJFFA8HTXZe4g/viewform?usp=preview)
 
