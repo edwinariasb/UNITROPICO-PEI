@@ -1,5 +1,75 @@
 # Ajuste instrumentos a instancias académicas 
 
+# Preguntas instrumento a Egresados
+
+## version 05.06.2025
+
+Relación preliminar de preguntas que propongo para aplicar al estamento de egresados en el marco del proceso de actualización del Proyecto Educativo Institucional (PEI) de Unitrópico.
+
+1. Conocimiento y vínculo con el PEI
+¿Conoce o ha recibido información sobre el Proyecto Educativo Institucional (PEI) de Unitrópico?
+(Sí / No / Parcialmente – con opción de especificar cómo lo conoció)
+
+¿Durante su formación académica se promovió la reflexión sobre los valores y principios institucionales del PEI?
+(Escala Likert: Nunca – Siempre)
+
+2. Pertinencia formativa y aplicación profesional
+¿Considera que los valores y principios institucionales promovidos por el PEI influyen en su desempeño profesional actual?
+(Escala Likert: Nada – Mucho)
+
+¿Qué aspectos del PEI considera que fueron más relevantes para su formación personal y profesional?
+(Pregunta abierta)
+
+¿Qué conocimientos, actitudes o valores adquiridos en Unitrópico considera que más han impactado su trayectoria profesional?
+(Pregunta abierta)
+
+¿Considera que las metodologías de enseñanza-aprendizaje que vivió en Unitrópico fueron coherentes con los principios institucionales?
+(Escala Likert)
+
+¿Qué cambios sugeriría al enfoque pedagógico que promueve el PEI para una formación más integral y contextualizada?
+(Pregunta abierta – Ej. uso de tecnologías, aprendizaje activo, trabajo colaborativo, enfoque territorial)
+
+3. Proyección social
+¿Cómo percibe el compromiso social del PEI con el territorio y su impacto en su formación como egresado?
+(Escala Likert: Muy bajo – Muy alto)
+
+¿Ha participado en actividades o proyectos de proyección social o comunitaria como egresado?
+(Sí / No – con espacio para comentarios)
+
+4. Internacionalización y visión global
+¿Tuvo acceso o conocimiento de oportunidades de internacionalización durante su etapa como estudiante?
+(Sí / No / Parcialmente – especifique cuáles)
+
+¿Considera que el PEI debería reforzar la formación con perspectiva intercultural e internacional?
+(Escala Likert)
+
+5. Bienestar Universitario
+¿Cómo valoró el acompañamiento institucional en términos de bienestar físico, emocional o académico durante su formación en Unitrópico?
+(Escala Likert: Muy bajo – Muy alto)
+
+¿Qué aspectos del bienestar universitario considera que el PEI debería priorizar para mejorar la experiencia estudiantil?
+(Pregunta abierta – Ej. salud mental, orientación profesional, inclusión, apoyo socioeconómico)
+
+6. Investigación
+¿Durante su formación en Unitrópico tuvo oportunidades de participar en procesos de investigación formativa o aplicada?
+(Sí / No / Parcialmente – con opción de describir la experiencia)
+
+¿Qué aspectos considera que el PEI debería fortalecer para promover en los estudiantes una cultura investigativa con impacto social y territorial?
+(Pregunta abierta – Ej. semilleros, acompañamiento docente, recursos, enfoque en problemas locales)
+
+7. Aportes a la actualización del PEI
+¿Qué aspectos considera que deberían fortalecerse en el nuevo PEI para mejorar la formación integral de los estudiantes?
+(Pregunta abierta – puede incluir aspectos como empleabilidad, innovación, ética, territorio, investigación)
+
+¿Estaría dispuesto/a a participar en espacios de socialización o retroalimentación para la actualización del PEI?
+(Sí / No – con opción para dejar correo electrónico)
+
+Quedo atenta a tus observaciones o ajustes que consideres pertinentes.
+Un abrazo,
+
+Luz Elena Malagón Castro
+Actualización PEI Unitrópico
+
 # instrumento PEI Estudiantes
 version en revisión antes de enviar a los estudiantes.
 Formulario para respuesta: (https://docs.google.com/forms/d/e/1FAIpQLSfY3EH1b-1SjoNeExqqzF1yEBNdrNkX3RYsHAJFFA8HTXZe4g/viewform?usp=preview)
