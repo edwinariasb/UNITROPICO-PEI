@@ -163,17 +163,6 @@ Estos principios y valores son fundamentales para el quehacer de Unitrópico y o
     Unitrópico debe fortalecer la apropiación social del conocimiento en las comunidades locales, reconociendo, valorando y articulando los saberes ancestrales con el conocimiento académico. Esto implica metodologías participativas, co-creación de conocimiento y respeto intercultural como base de una educación verdaderamente territorializada.
 
 
-
-Basado en las fuentes proporcionadas, el Proyecto Educativo Institucional (PEI) 2021 de la Universidad Internacional del Trópico Americano, adoptado mediante Resolución Rectoral No. 237 de 2021 [1, 2], está estructurado en capítulos [PEI2021.md]. A continuación, se presenta una estructura y síntesis de cada capítulo según lo descrito en los documentos fuente:
-
-**Estructura del Documento**
-
-El documento está estructurado en capítulos [PEI2021.md]:
-
-*   **Primer Capítulo** [PEI2021.md]
-*   **Segundo Capítulo** [PEI2021.md]
-*   **Capítulos siguientes** [PEI2021.md]
-
 **Síntesis de Cada Capítulo**
 
 *   **Primer Capítulo**
@@ -192,4 +181,49 @@ El documento está estructurado en capítulos [PEI2021.md]:
         *   **Proyección Social:** Es un pilar fundamental [25, 48, 145], conectando la universidad con su entorno y la sociedad [22, 48, 100, 128, 146, 152, 154, 159, 163, 165-171, 178, 200, 203, 204, 225-237]. Busca aportar al desarrollo sostenible y equitativo [25, 48, 145], generar efectos positivos en el territorio [238] y contribuir a la formación integral del estudiante [238]. Implica interacción con diversos actores (comunidades, empresas, instituciones) a nivel local, nacional e internacional [163, 167, 200, 204, 208, 225-229, 231, 232, 236, 239, 240]. Se relaciona con prácticas profesionales, consultorías, asesorías, educación continua, y proyectos específicos que aborden problemas del contexto regional [100, 167, 200, 225-231, 235, 239, 241-247]. La Vicerrectoría de Proyección Social lidera este eje [49-51].
         *   **Bienestar Universitario:** Es una tarea transversal al proyecto educativo, orientada al desarrollo físico, psico-afectivo, espiritual y social de toda la comunidad universitaria (estudiantes, docentes, personal administrativo, egresados) [38, 167, 168, 233, 248-257]. Busca la formación integral [38, 236, 251, 258-260], la solidaridad, el ambiente sano y saludable, la convivencia y la inclusión [38, 95, 100, 103, 167, 251, 252, 254, 261, 262]. Se basa en lineamientos del MEN y CESU [38, 249-251, 255, 256, 258, 263-266]. Se estructura en áreas y líneas de acción estratégicas [51, 261, 262, 267-270]. La Oficina de Bienestar Universitario y la Vicerrectoría Académica son responsables principales de su implementación, con el concurso de otras áreas [44, 51, 271-274]. Incluye programas de acompañamiento y seguimiento (PASE) para prevenir la deserción [51, 69, 269, 274-280], fomento socioeconómico [281], estímulos (académicos, deportivos, culturales) [240, 266, 282] y promoción de la participación [38, 51, 167, 233, 236, 248, 250, 252, 254, 259, 269]. Se integra con la Política de Educación Superior Inclusiva e Intercultural (PESII) [48, 95, 100, 103, 271, 283-306] y busca garantizar la inclusión como factor de equidad [95, 100, 103, 261, 262, 291, 294, 306].
 
-Los capítulos siguientes, por tanto, desarrollan las directrices y estrategias específicas para la implementación de estas funciones sustantivas y el bienestar en Unitrópico [PEI2021.md, 10, 51, 719].
+# ASPECTOS CURRICULARES
+
+Claro, con gusto te proporciono una síntesis en español de los puntos principales extraídos de los documentos proporcionados:
+
+El **Acuerdo CA No. 042 del 25 de abril de 2023** tiene como objetivo principal **adoptar los lineamientos curriculares para los programas de Pregrado y Posgrado** de la Universidad Internacional del Trópico Americano – Unitrópico. Este acuerdo deroga la Resolución Rectoral 313 del 24 de septiembre de 2021.
+
+A continuación, se detallan los puntos clave de los lineamientos curriculares:
+
+*   **Naturaleza y Marco Institucional de Unitrópico**:
+    *   Unitrópico es una **institución universitaria pública con autonomía académica, administrativa, financiera y patrimonial**. Goza de un régimen especial de universidad de conformidad con la Constitución Política y diversas leyes.
+    *   El **Consejo Académico** es la máxima autoridad académica de la universidad.
+    *   Las acciones de Unitrópico están **comprometidas con la transformación de su misión y visión**, en línea con el Plan de Desarrollo Institucional 2021-2024 (PDI).
+
+*   **Filosofía y Enfoque Educativo**:
+    *   El diseño curricular de Unitrópico se basa en un **enfoque pedagógico que promueve la formación integral y el desarrollo de competencias**. Se centra en las demandas de la sociedad, la ciencia, la tecnología y la cultura.
+    *   Adopta un **modelo pedagógico de desarrollo humano y social por competencias**.
+    *   Los **resultados de aprendizaje esperados (RAE)** definen lo que los estudiantes deben saber, saber hacer y saber ser al finalizar un proceso formativo. Estos RAE se organizan en dimensiones cognitivas, valorativas, actitudinales y psicomotoras.
+    *   El currículo es **dinámico, flexible y se adapta a las necesidades individuales y características del contexto**.
+    *   Los principios fundamentales incluyen el **pluralismo** (coexistencia de diversas formas de ser y pensar), la **pertinencia** (coherencia con las demandas sociales) y la **autorregulación** (procesos formativos autogenerados y adaptativos).
+
+*   **Organización Curricular y Niveles de Formación**:
+    *   Los programas académicos de Unitrópico se clasifican en **pregrado y posgrado**.
+    *   Los **niveles de posgrado** incluyen programas de **especialización, maestría y doctorado**.
+        *   Las **especializaciones** buscan la cualificación profesional y la ampliación del conocimiento en áreas específicas.
+        *   Las **maestrías** pueden ser de **profundización** (aplicación del conocimiento a problemas) o de **investigación** (generación de nuevo conocimiento).
+        *   Los **doctorados** se enfocan en la investigación y la generación de conocimiento en un área disciplinar específica, con énfasis en la praxis investigativa y la fundamentación flexible.
+    *   El **crédito académico** es la unidad de medida del trabajo académico, equivalente a **48 horas por período académico**.
+
+*   **Modalidades de Oferta Académica**:
+    *   Unitrópico ofrece diversas modalidades: **presencial, a distancia, virtual y dual**.
+    *   La **modalidad presencial** implica interacción física y sincrónica.
+    *   La **modalidad virtual** integra tecnologías digitales para el aprendizaje asincrónico y flexible.
+    *   La **modalidad a distancia** combina elementos presenciales y remotos.
+    *   La **modalidad dual** combina formación en la universidad y experiencia laboral en entornos productivos.
+    *   También se contempla el **modelo combinado tradicional (blended)** y el **combinado flexible (HyFlex)**, que ofrecen mezclas de presencialidad y virtualidad.
+
+*   **Dimensiones Transversales del Currículo**:
+    *   **Flexibilidad Curricular**: Buscan **impulsar la movilidad académica y el reconocimiento de créditos**, ofrecer trayectorias académicas flexibles, diseñar ofertas modulares y fomentar la incorporación de tecnologías educativas.
+    *   **Marco Nacional de Cualificaciones (MNC)**: El diseño curricular de Unitrópico se alinea con el MNC para **garantizar la calidad, transparencia y comparabilidad** de las titulaciones.
+    *   **Internacionalización**: Se promueve la **interculturalidad, el plurilingüismo y la preparación para un contexto global**, a través de la movilidad estudiantil y docente, y la incorporación de experiencias internacionales.
+    *   **Interdisciplinariedad**: Se fomenta la **colaboración entre docentes y estudiantes de diversas áreas del conocimiento** y el desarrollo de proyectos interdisciplinares.
+    *   **Transversalidad**: Se busca el **desarrollo de competencias transversales** (ej. comunicación, pensamiento crítico, resolución de problemas) que atraviesan todas las disciplinas y son aplicables a diversos contextos.
+    *   **Inclusión**: Se implementan estrategias para **garantizar la accesibilidad y adaptación para personas con discapacidad y diversas necesidades**.
+    *   **Transformación Digital**: Se integra la **tecnología digital en el proceso educativo**, incluyendo el desarrollo de competencias digitales, entornos virtuales de aprendizaje y recursos educativos abiertos.
+
+En resumen, los lineamientos curriculares de Unitrópico buscan establecer un **marco educativo robusto, flexible e innovador**, centrado en el desarrollo integral de los estudiantes a través de **competencias pertinentes, modalidades diversas y una visión internacional e inclusiva**, todo ello respaldado por un **sólido marco normativo y estratégico**.
