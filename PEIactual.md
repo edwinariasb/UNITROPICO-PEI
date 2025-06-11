@@ -183,8 +183,6 @@ Estos principios y valores son fundamentales para el quehacer de Unitrópico y o
 
 # ASPECTOS CURRICULARES
 
-Claro, con gusto te proporciono una síntesis en español de los puntos principales extraídos de los documentos proporcionados:
-
 El **Acuerdo CA No. 042 del 25 de abril de 2023** tiene como objetivo principal **adoptar los lineamientos curriculares para los programas de Pregrado y Posgrado** de la Universidad Internacional del Trópico Americano – Unitrópico. Este acuerdo deroga la Resolución Rectoral 313 del 24 de septiembre de 2021.
 
 A continuación, se detallan los puntos clave de los lineamientos curriculares:
@@ -226,4 +224,4 @@ A continuación, se detallan los puntos clave de los lineamientos curriculares:
     *   **Inclusión**: Se implementan estrategias para **garantizar la accesibilidad y adaptación para personas con discapacidad y diversas necesidades**.
     *   **Transformación Digital**: Se integra la **tecnología digital en el proceso educativo**, incluyendo el desarrollo de competencias digitales, entornos virtuales de aprendizaje y recursos educativos abiertos.
 
-En resumen, los lineamientos curriculares de Unitrópico buscan establecer un **marco educativo robusto, flexible e innovador**, centrado en el desarrollo integral de los estudiantes a través de **competencias pertinentes, modalidades diversas y una visión internacional e inclusiva**, todo ello respaldado por un **sólido marco normativo y estratégico**.
+En sintesis, los lineamientos curriculares de Unitrópico buscan establecer un **marco educativo robusto, flexible e innovador**, centrado en el desarrollo integral de los estudiantes a través de **competencias pertinentes, modalidades diversas y una visión internacional e inclusiva**, todo ello respaldado por un **sólido marco normativo y estratégico**.
