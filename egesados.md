@@ -7,6 +7,17 @@ hay una fortaleza en los egresados recientes: 1000 egresados.
 Se enviara de modo priorizado a todos los egresados
 con tasa de respuesta del 90%
 
+las preguntas abiertas deben quedar no obligatorias
+
+perfil del egresado, mantener la visión desde la perspectiva de la misión y visión
+politica de egresados, definiciones a buscar en el estatuto UNITROPICO
+
+capitulo específico de los egresados y las funciones
+política de egresados: 
+por un lado fortalecer el vinculo-egresado y universidad y en parte desde la Vicerrectoria de proyección social
+acciones: fortalecer el vínculo, hacer seguimiento, hacer la evaluación de la experiencia del egresado antes estudiante
+
+Participación de egresados en programas curriculares (en términos de evaluación de los procesos formativos)
 
 
 
