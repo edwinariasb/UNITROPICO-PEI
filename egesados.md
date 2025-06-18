@@ -2,6 +2,13 @@
 (https://docs.google.com/forms/d/e/1FAIpQLScODrRYJw_HNpxzA_RuQvstCfv4cEci6drVNh5bIKJv6FAXFQ/viewform)
 
 Egresados UNITROPIcO: 4.791 egresados a corte de junio 6 de 2025
+hay una fortaleza en los egresados recientes: 1000 egresados.
+
+Se enviara de modo priorizado a todos los egresados
+con tasa de respuesta del 90%
+
+
+
 
 
 # Aspectos  correspondientes a egresados extraídos de la revision documental:
