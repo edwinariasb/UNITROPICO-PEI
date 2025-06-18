@@ -1,6 +1,8 @@
 # Instrumento a egresados
 (https://docs.google.com/forms/d/e/1FAIpQLScODrRYJw_HNpxzA_RuQvstCfv4cEci6drVNh5bIKJv6FAXFQ/viewform)
 
+Egresados UNITROPIcO: 4.791 egresados a corte de junio 6 de 2025
+
 
 # Aspectos  correspondientes a egresados extraídos de la revision documental:
 
