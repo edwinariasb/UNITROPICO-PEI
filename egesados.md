@@ -67,3 +67,10 @@ Participación de egresados en programas curriculares (en términos de evaluaci�
 *   Los egresados se perciben como un escenario final del relacionamiento, cuyo impacto en la sociedad se busca identificar. La transformación de Unitrópico a universidad pública ha hecho que el sector externo y productivo, incluyendo entidades como Fundación CasaLuque, Ecopetrol y F Palma, comiencen a contactar a Unitrópico, lo que genera nuevos diálogos e interacciones.
 *   Existe una necesidad de mejorar la articulación entre bienestar y los ejes misionales, especialmente en la fase de culminación del proceso de formación de los estudiantes, vinculándose con la división de egresados para temas de hoja de vida o sistemas de empleo.
 *   Los programas de posgrado están generando una "mini avalancha de egresados interesados", lo que ayuda al fortalecimiento de los ejercicios de revisión académica interna.
+
+# Calculo de la muestra del grupo de Egresados
+
+![poblacíón UNITROPICO - 2024](https://github.com/user-attachments/assets/927f8281-f9f9-4511-ad13-236e16e2f30a)
+Fuente: ![UNITROPICO, Informe de Rendición de cuentas - Vigencia 2024](https://online.fliphtml5.com/xyzjf/ksuf/#p=3)
+
+
