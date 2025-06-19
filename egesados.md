@@ -71,6 +71,7 @@ Participación de egresados en programas curriculares (en términos de evaluaci�
 # Calculo de la muestra del grupo de Egresados
 
 ![poblacíón UNITROPICO - 2024](https://github.com/user-attachments/assets/927f8281-f9f9-4511-ad13-236e16e2f30a)
-Fuente: ![UNITROPICO, Informe de Rendición de cuentas - Vigencia 2024](https://online.fliphtml5.com/xyzjf/ksuf/#p=3)
+Fuente: 
+![UNITROPICO, Informe de Rendición de cuentas - Vigencia 2024](https://online.fliphtml5.com/xyzjf/ksuf/#p=3)
 
 
