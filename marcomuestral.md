@@ -1,11 +1,6 @@
 
 ---
 title: "Tamaño de muestra - Instrumento a Egresados, Estudiantes y Docentes"
-format:
-  html: default
-  pdf: default
-  docx: default
-  pptx: default
 ---
 
 ## Tamaño de la muestra
