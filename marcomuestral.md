@@ -5,7 +5,7 @@ title: "Tamaño de muestra - Instrumento a Egresados, Estudiantes y Docentes"
 
 ## Tamaño de la muestra
 
-A partir de la consulta efectuada en la reunión con el equipo de la Vicerrectoría Académica y Vicerrectoría de Proyección social, se acordo revisar los marcos muestrales para cada uno de los grupos a los que se aplican instrumentos de consulta, en el marco de la actualización del PEI. lo anterior, con el fin de establecer el tamaño de la muestra, se definió un margen de error del 5 % y se calcularon diferentes escenarios según el nivel de confianza estadística deseado: 90 %, 95 % y 99 %. Estos niveles de confianza indican la probabilidad de que el resultado observado en la muestra sea representativo de la población total de egresados, estudiantes y docentes. La fórmula utilizada para calcular el tamaño de la muestra es:
+A partir de la consulta efectuada en la reunión con el equipo de la Vicerrectoría Académica y Vicerrectoría de Proyección social (18 de junio de 2025) se acordo revisar los marcos muestrales para cada uno de los grupos a los que se aplican instrumentos de consulta, en el marco de la actualización del PEI de UNITROPICO. Lo anterior, con el fin de establecer el tamaño de la muestra, se definió un margen de error del 5 % y se calcularon diferentes escenarios según el nivel de confianza estadística posible: 90 %, 95 % y 99 %. Estos niveles de confianza indican la probabilidad de que el resultado observado en la muestra sea representativo de la población total de egresados, estudiantes y docentes. La fórmula utilizada para calcular el tamaño de la muestra es:
 
 $$
 \text{Tamaño de muestra } n = \frac{Z^2 \cdot p \cdot (1 - p)}{c^2}
